@@ -18,16 +18,17 @@ This is a social network feed system where users can create posts, upvote/downvo
 - An IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
 ## Setup Instructions
-
-### Clone the Repository
+Clone the Repository
 
 ## Sample console commands to give to test
+
 signup~lucious
 signup~tom
 login~tom
 post~I am going to be the darkest dark wizard of all time
 post~I am lord Voldemort btw 3:)
 Login~lucious
+
 Follow~tom
 Shownewsfeed
 
