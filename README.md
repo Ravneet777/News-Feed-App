@@ -22,33 +22,21 @@ Clone the Repository
 
 ## Sample console commands to give to test
 
-  1. Sign Up Users:
-  Command: signup~lucious
-  
-  Action: Creates a new user with the username lucious.
-  Command: signup~tom
-  
-  Action: Creates a new user with the username tom.
-  2. Login as tom:
-  Command: login~tom
-  Action: Logs in the user with the username tom.
-  3. Post Creation by tom:
-  Command: post~I am going to be the darkest dark wizard of all time
-  
-  Action: tom creates a post with the content: "I am going to be the darkest dark wizard of all time".
-  Command: post~I am lord Voldemort btw 3:)
-  
-  Action: tom creates another post with the content: "I am lord Voldemort btw 3:)".
-  4. Login as lucious:
-  Command: login~lucious
-  Action: Logs in the user with the username lucious.
-  5. Follow tom:
-  Command: follow~tom
-  Action: The user lucious follows tom, meaning lucious will now see tom’s posts in their feed.
-  6. Show News Feed for lucious:
-  Command: shownewsfeed
-  Action: Displays the news feed for lucious, which includes both lucious's posts and the posts from tom (since lucious follows tom).
-  7. Reply to tom's Post:
-  Command: reply~1~I am with you dark lord!
-  Action: lucious replies to tom's post with ID 1 (which has the content "I am going to be the darkest dark wizard of all time") with the comment: "I am with you dark lord!".
+Enter a command: signup~lucious
+Enter a command: signup~tom
+Enter a command: login~tom
+Logged in as tom
+Enter a command: post~I am going to be the darkest dark wizard of all time
+Post created successfully at 2025-01-17 10:00
+Enter a command: post~I am lord Voldemort btw 3:)
+Post created successfully at 2025-01-17 10:05
+Enter a command: login~lucious
+Logged in as lucious
+Enter a command: follow~tom
+lucious is now following tom successfully!
+Enter a command: shownewsfeed
+Post ID: 1 | Content: I am going to be the darkest dark wizard of all time | Upvotes: 0 | Downvotes: 0 | Comments: 0 | Posted: Just now
+Post ID: 2 | Content: I am lord Voldemort btw 3:) | Upvotes: 0 | Downvotes: 0 | Comments: 0 | Posted: Just now
+Enter a command: reply~1~I am with you dark lord!
+Reply posted successfully to Post ID: 1
 
