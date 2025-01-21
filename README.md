@@ -22,6 +22,7 @@ Clone the Repository
 
 ## Sample console commands to give to test
 
+```
 Enter a command: signup~lucious
 Enter a command: signup~tom
 Enter a command: login~tom
@@ -35,6 +36,7 @@ Logged in as lucious
 Enter a command: follow~tom
 lucious is now following tom successfully!
 Enter a command: shownewsfeed
+```
 Post ID: 1 | Content: I am going to be the darkest dark wizard of all time | Upvotes: 0 | Downvotes: 0 | Comments: 0 | Posted: Just now
 Post ID: 2 | Content: I am lord Voldemort btw 3:) | Upvotes: 0 | Downvotes: 0 | Comments: 0 | Posted: Just now
 Enter a command: reply~1~I am with you dark lord!
